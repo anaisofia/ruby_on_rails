@@ -1,8 +1,3 @@
-#Transformar la clase Semana en un módulo y obtener la misma salida:
-# La semana comienza el día Lunes
-# Un mes tiene 4 semanas.
-# Un año tiene 52 semanas.
-
 module Semana
   class Week
     @@primer_dia = 'Lunes'
